@@ -1,5 +1,8 @@
 @extends('layouts.admin')
-@section('title', 'Registration')
+@section('title')
+Registration
+@endsection 
+
 
 @section('content')
     <div class="page-content--bge5">
@@ -7,9 +10,11 @@
             <div class="login-wrap">
                 <div class="login-content">
                     <div class="login-logo">
-                            <a href="#">
-                                    <img src="images/icon/fast.png" alt="CoolAdmin" width="20%">
-                        </a>
+                            
+                            <a class="navbar-brand" href="{{ url('/') }}">
+                                <img src="{{asset('img/logo1.png')}}" width="20%"/>
+                            </a>
+                        
                     </div>
 
                     
@@ -100,5 +105,7 @@
             </div>
         </div>
     </div>
+
+    
    
 @endsection
