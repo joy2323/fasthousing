@@ -1,0 +1,93 @@
+
+
+#card-one{
+    height: 100px;
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: whitesmoke!important;
+    
+}
+
+.storm{
+    display:inline-flex;
+    
+    padding-bottom: 50px;
+
+}
+
+#message{
+    margin-left: -10px;
+    margin-top: 20px;
+    height: 100px;
+}
+
+#wrap{
+    width: 90%;
+    height: 50px;
+    border-radius: 20px;
+}
+
+#plane{
+    cursor: pointer;
+  background: #32465a;
+   color: #f5f5f5; 
+}
+
+#chat{
+   
+    margin-left: 10px;
+    background-color: #32465a;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin-top : -20px;
+    margin-left: -2px;
+}
+
+#chat-one{
+    display:inline-flex;
+    margin-left: -38px;
+    margin-top: 100px;
+    
+}
+
+#chat-two{
+    display: inline-flex;
+    padding-right: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+#you{
+    padding-right: 20px;
+    padding-top : 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+    background-color: #f5f5f5;
+    text-align: center;
+    height: 50px;
+    width: 180px;
+
+}
+.list{
+    display:inline-block;
+   
+}
+
+#me{
+   margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+    padding-top: 10px;
+    background-color: #435f7a;
+    text-align: center;
+    height: 50px;
+    width: 180px;
+
+}
+
+#heartland{
+    display:flex;
+    justify-content: center;
+    width: 45%;
+    height: 500px;
+    margin-top: 40px;
+}

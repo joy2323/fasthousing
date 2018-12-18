@@ -1,0 +1,96 @@
+#chat{
+
+    height: 80px;
+    color:red;
+}
+
+#profile ul,li,form{
+    padding-left: 1.2em;
+}
+#profile ul,li li i{
+     font-size: 2em;
+}
+#profile ul li form {
+    padding-top: .3em;
+}
+#profile ul li li li li {
+    font-size: 1em;
+    width: 40%;
+    height: 40%;
+}
+
+.prosper{
+
+    display:flex;
+    justify-content:space-around;
+    padding-top: 30px;
+}
+
+.grid{
+    margin-top:60px;
+}
+
+#love{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+
+.flash,{
+ 
+  margin-top: 80px;
+ 
+}
+
+.section{
+  height: 650px;
+}
+
+.color{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+#robert{
+ height: 300px;
+ width: 90%;
+ 
+}
+
+.list{
+display:flex;
+justify-content: space-between;
+padding-top: 30px;
+padding-right: 80px;
+
+}
+
+#icon{
+font-size: 42px;
+color: blue;
+}
+
+
+#icon:hover{
+font-size: 60px;
+color: red;
+}
+
+.reeve{
+margin-top: 70px;
+}
+#my-form{
+display: flex;
+justify-content: center;
+width: 90%;
+margin-right: 10px;
+padding-top: 30px;
+ margin-left: 10px;
+}
+
+.part{
+height: 200px;
+}
